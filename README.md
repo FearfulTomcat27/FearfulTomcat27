@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%AD%90%E2%AD%90%E2%AD%90-blue?logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90-blue?logo=Oracle)
 ![Static Badge](https://img.shields.io/badge/Python-%E2%AD%90%E2%AD%90-blue?logo=Python)
 ![visitors](https://api.visitor.plantree.me/visitor-badge/pv?label=visitor&namespace=FearfulTomcat27&key=040602&color=blue)
