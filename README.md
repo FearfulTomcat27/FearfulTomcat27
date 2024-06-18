@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- 🏫 I'm studying at CQUPT
 - 📫 How to reach me: fearfultomcat27@qq.com
 
 
