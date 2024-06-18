@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code>![visitors](https://api.visitor.plantree.me/visitor-badge/pv?label=visitor&namespace=FearfulTomcat27&key=040602&color=blue)</code>
+
+![Static Badge](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90-blue?logo=Oracle)
+![Static Badge](https://img.shields.io/badge/Python-%E2%AD%90%E2%AD%90-blue?logo=Python)
+![visitors](https://api.visitor.plantree.me/visitor-badge/pv?label=visitor&namespace=FearfulTomcat27&key=040602&color=blue)
+
 <!--
 
 **FearfulTomcat27/FearfulTomcat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
