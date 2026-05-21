@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fearfultomcat27@qq.com
 
 
-![FearfulTomcat27's GitHub stats](https://github-readme-stats.vercel.app/api?username=FearfulTomcat27)
+![FearfulTomcat27's GitHub stats](https://stats.fearfultomcat27.top/api?username=FearfulTomcat27)
